@@ -2,9 +2,8 @@
 *Graphic Designer*  
 Augusta, Georgia  
 
-[Find me on LinkedIn](https://www.linkedin.com/in/oliviamdemoss/)
-
-[OR, Check Out My Portfolio](https://www.behance.net/oliviamdemoss)
+[Find me on LinkedIn](https://www.linkedin.com/in/oliviamdemoss/)  
+[OR, Check out my portfolio](https://www.behance.net/oliviamdemoss)
 
 <br>
 
@@ -20,3 +19,18 @@ I am passionately creative, quality driven and motivated to create the best desi
 # Education
 **Augusta Technical College**, **2015**  
 *Design and Media Production Degree*
+
+<br>
+
+# Experience
+**Web Manager**  
+*Goodwill Industries of Middle Georgia and the CSRA*   
+May 2021 – Present  
+Augusta, Georgia
+
+<br>
+
+**Art Director**  
+*Morris Communications Company*
+
+
